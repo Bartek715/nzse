@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Niepubliczny Zespół Szkół Ekonomicznych im. Fryderyka Chopina",
-    "currentPage": "index.html",
+    "currentPage": "page8.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -44,7 +44,7 @@
       }
     ],
     "imageResize": true,
-    "uniqCompNum": 36,
+    "uniqCompNum": 37,
     "versionPublish": "4.12.4",
     "screenshot": "screenshot.png"
   },
